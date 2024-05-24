@@ -19,3 +19,5 @@ El creador original del **malware Mirai** fue arrestado y condenado por su parti
 ### Seguridad cibernética post-Mirai
 
 Desde el ataque Mirai, ha habido un mayor enfoque en mejorar la seguridad de los dispositivos IoT y en la concienciación sobre los riesgos de seguridad cibernética. Las empresas y los usuarios están tomando medidas para proteger sus dispositivos y redes contra posibles ataques, pero el riesgo sigue siendo una preocupación importante en el ámbito de la ciberseguridad.
+
+### Creado por Adriana Vargas
